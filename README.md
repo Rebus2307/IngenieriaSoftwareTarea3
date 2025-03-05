@@ -50,14 +50,15 @@ La aplicación estará disponible en `http://localhost:8080`.
 
 ## Capturas de Pantalla
 Aplicaicion ejecutandose con Docker
-![image](https://github.com/user-attachments/assets/8d3be5a9-87a7-47a2-b8a7-7ce25b22bac0)
+![Captura desde 2025-03-05 07-46-14](https://github.com/user-attachments/assets/b13c9c85-b5d5-400a-a348-9c7f10c31398)
+
 
 Pestaña de login funcionando
-![image](https://github.com/user-attachments/assets/4b5020e4-5948-4690-9053-a048d004d5fa)
+![Captura desde 2025-03-05 07-47-18](https://github.com/user-attachments/assets/3ff8916e-8b15-4daa-a172-cedb8b3bb80d)
+
 
 Inicio de sesion de usuario
-![image](https://github.com/user-attachments/assets/c9ad9e69-c5f8-49da-81a4-45642738be99)
-
+![Captura desde 2025-03-05 07-47-48](https://github.com/user-attachments/assets/fff4688d-c1df-406b-9aba-e275914c65c4)
 
 ## Investigación
 

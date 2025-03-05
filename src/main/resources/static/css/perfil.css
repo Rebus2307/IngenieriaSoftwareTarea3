@@ -1,0 +1,47 @@
+.profile-info {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+.profile-photo-container {
+    flex: 0 0 200px;
+    display: flex; /* Añadido para flexbox */
+    flex-direction: column; /* Alineación vertical */
+    align-items: center; /* Centrar horizontalmente */
+}
+
+.profile-photo {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 3px solid #c25e33;
+    position: relative;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-photo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.user-data {
+    flex: 1;
+    min-width: 300px;
+}
+
+.form-actions {
+    margin-top: 20px;
+}
+
+.blank-profile {
+    width: 100%;
+    height: 100%;
+    background-color: #f0f0f0;
+    border-radius: 50%;
+}

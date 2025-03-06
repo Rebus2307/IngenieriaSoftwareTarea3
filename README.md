@@ -35,6 +35,7 @@ Si deseas ejecutar la aplicación sin Docker, usa los siguientes comandos:
  mvn spring-boot:run
 ```
 Nota: Como base de datos se utilizó XAMPP junto a phpMyAdmin.
+Puedes encontrar todos los comandos SQL para crear la base de datos en el archivo bd.sql
 
 ## Ejecutar con Docker
 
